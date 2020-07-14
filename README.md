@@ -1,5 +1,4 @@
 # Ping-Pong-Game-
 Ping Pong Game Using JavaScript
 
-This Game I Have Copied from the YouTube. Their are many videos of it on the YouTube.
-Sorry but Just Go and See............................................................
+This Game I have made by taking the referene of the Youtube. So go and watch it.  
